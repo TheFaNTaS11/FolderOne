@@ -1,11 +1,11 @@
 .button {
   font-family: 'Roboto Condensed', sans-serif;
   margin: 30px;
-  background: #ee6123;
+  background: red;
   width: 300px;
   height: 40px;
   border-radius: 5px;
-  color: #fff;
+  color: black;
   text-align: center;
   font-size: 18px;
   text-transform: uppercase;
@@ -27,7 +27,7 @@
   left: 0;
   height: 40px;
   width: 0;
-  background: #205081;
+  background: lime;
   overflow:hidden;
   transition: all ease 2s;
   border-radius: 5px;
